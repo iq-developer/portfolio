@@ -1,6 +1,6 @@
-<h1 align="center">My portfolio</h1>
+<h1 align="center">Volodymyr Sevastianov's portfolio</h1>
 
-<h4 align="center">Portfolio of my main works as developer and designer</h4>
+<h4 align="center">My main projects as web developer and designer</h4>
 
 <p align="center">
 <a href="https://github.com/iq-developer/portfolio/commits/main" target='_blank'>
@@ -28,6 +28,25 @@
 
 <img width="1000" height="750" src="https://user-images.githubusercontent.com/70282845/161735459-f6158a6a-c4a8-48bf-8e84-476f6341b8e3.png">
 <br>
+
+## [Triple triad card game (React.js)](https://iq-developer.github.io/pokemon-game/)
+:link: [Source code](https://https://github.com/iq-developer/pokemon-game/)
+
+Description
+
+## [Vending mashine simulator (React.js)](https://iq-developer.github.io/vending-mashine/)
+:link: [Source code](https://github.com/iq-developer/vending-mashine/)
+
+Description
+
+## [Tic-tac-toe game (React.js)](https://iq-developer.github.io/tic-tac-toe-game/)
+:link: [Source code](https://github.com/iq-developer/tic-tac-toe-game/)
+
+Description
+
+<hr/>
+
+# Projects without open source code
 
 ## Healthy food manufacturer online store
 
