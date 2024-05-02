@@ -1,6 +1,6 @@
 <h1 align="center">My portfolio</h1>
 
-<h4 align="center">Portfolio of my main works as a designer &amp; developer in my web design studio</h4>
+<h4 align="center">Portfolio of my main works as developer and designer</h4>
 
 <p align="center">
 <a href="https://github.com/iq-developer/portfolio/commits/main" target='_blank'>
@@ -11,36 +11,11 @@
 </a>  
 </p>
 
-## [Climate optimization tool for construction projects (React.js)](https://nodon.se/)
-- Designed and developed from scratch tree-based structure for multi-level form with nested selectors
-- Proposed 22 features and UX/UI improvements
-- Created pdf and printable version of the interface
-- Invented smart naming function
-- Developed element versions functionality in deep collaboration with backend specialist
-- Worked on features based on chart.js (graphs, charts, tooltips)
-- Did new releases to production
-- Support trainee teammates to learn how solve issues and be familiar with technologies
-- Used Sentry to identify and quickly react on errors in production
-- Added custom hooks that used on a regular basis
-- Improved system of advanced confirmation dialogs
-- Implemented different types of sorting
-- Migrated dependencies to new major versions from previous
-
-![nodon](https://github.com/iq-developer/portfolio/assets/70282845/bf843b3d-8c4b-4c4c-81ea-6d5669d53e29)
-
-
-## [Portal for employees (React.js)](https://otakoyi.com/)
-* Developed new features, pages, and UI elements with React
-* Designed and developed highly responsive pixel-perfect user interface components
-* Translated designs & wireframes into high-quality code
-* Used version control systems GitLab and GitHub, following Git-flow workflow
-* Improved functionality and performance of the App
-* Communicated with the designer’s team and discuss UX/UI propositions
-
-![otakoi](https://github.com/iq-developer/portfolio/assets/70282845/57a171fb-09b9-4b39-a6c1-228b6e137fd4)
-
+> [!TIP]
+> Open source projects come first on the list
 
 ## [Raw oils online store (React.js)](https://oliya.com.ua/)
+:link: [Source code](https://github.com/iq-developer/oliya/)
 
 **Key features:**
 * Multipage (react-router)
