@@ -30,7 +30,7 @@
 <br>
 
 ## [Triple triad card game (React.js)](https://iq-developer.github.io/pokemon-game/)
-:link: [Source code](https://https://github.com/iq-developer/pokemon-game/)
+:link: [Source code](https://github.com/iq-developer/pokemon-game/)
 
 Pokemon cards game was developed in 2 weeks, at an intensive react marathon.
 The game allowed us to learn in practice:
