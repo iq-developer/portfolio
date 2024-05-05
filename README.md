@@ -32,17 +32,36 @@
 ## [Triple triad card game (React.js)](https://iq-developer.github.io/pokemon-game/)
 :link: [Source code](https://https://github.com/iq-developer/pokemon-game/)
 
-Description
+Pokemon cards game was developed in 2 weeks, at an intensive react marathon.
+The game allowed us to learn in practice:
+- all the basic concepts of React
+- Redux and Redux-Toolkit
+- Flux architecture
+- Firebase
+- REST API
+
+![Poks](https://user-images.githubusercontent.com/70282845/161306423-f49d97f4-25ca-4e43-8a6b-49f5301f0f58.jpg)
 
 ## [Vending mashine simulator (React.js)](https://iq-developer.github.io/vending-mashine/)
 :link: [Source code](https://github.com/iq-developer/vending-mashine/)
 
-Description
+A vending mashine simulator was developed and designed according to the following requirements:
+- Once an item is selected and the appropriate amount of money is inserted, the vending machine should return the correct product.
+- It should also return change if too much money is provided, or ask for more money if insufficient funds have been inserted.
+- The machine should take an initial load of products and change. The change will be of denominations 1¢, 2¢, 5¢, 10¢, 20¢, 50¢, 1€, 2€.
+- The machine should keep track of the products and change that it contains.
+
+  
+In addition to programming on React.js, was created responsive layout with Material UI, and CSS animation added
+
+![vending](https://user-images.githubusercontent.com/70282845/161371238-00f8982d-41a7-44ad-8341-dc91157a4781.jpg)
 
 ## [Tic-tac-toe game (React.js)](https://iq-developer.github.io/tic-tac-toe-game/)
 :link: [Source code](https://github.com/iq-developer/tic-tac-toe-game/)
 
-Description
+The game was written in pure Javascript, then rewritten in React. As a strategy for the second player (the computer), I chose to randomly place a piece on free cells. This was done intentionally, so that you could easily win or lose as you wish ;)
+
+![Tic-tac-toe](https://user-images.githubusercontent.com/70282845/161395343-f10f28c0-ab14-42c0-b146-a1833b1b582f.jpg)
 
 <hr/>
 
