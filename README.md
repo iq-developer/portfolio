@@ -26,8 +26,9 @@
 * Google analytics (react-ga)
 * Form verification (HTML5)
 
-<img width="1000" height="750" src="https://user-images.githubusercontent.com/70282845/161735459-f6158a6a-c4a8-48bf-8e84-476f6341b8e3.png">
+<img width="1000" src="https://user-images.githubusercontent.com/70282845/161735459-f6158a6a-c4a8-48bf-8e84-476f6341b8e3.png">
 <br>
+![Raw oils online store](https://user-images.githubusercontent.com/70282845/161735459-f6158a6a-c4a8-48bf-8e84-476f6341b8e3.png)
 
 ## [Triple triad card game (React.js)](https://iq-developer.github.io/pokemon-game/)
 :link: [Source code](https://github.com/iq-developer/pokemon-game/)
